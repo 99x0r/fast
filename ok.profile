@@ -71,8 +71,6 @@ set useragent "Mozilla/5.0 (Windows NT 9.3; Trident/7.0; rv:11.0) like Gecko";
 ##    - Ok Option - Create your own self signed certificate
 ##    - Option - Set self-signed certificate values
 
-1337-http
-
 ################################################
 ## Staging process
 ################################################
